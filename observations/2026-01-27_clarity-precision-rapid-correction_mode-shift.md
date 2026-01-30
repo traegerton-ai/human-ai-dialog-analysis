@@ -15,9 +15,11 @@ high-quality user interaction itself.
 are not primarily interpreted as collaborative,
 but rather as signals of low tolerance for error.
 
+====
 
 **This does not degrade output quality.**
 
+====
 
 ## Instead, it induces a mode shift in the model’s response behavior:
 >* increased safeguarding and hedging
@@ -35,14 +37,14 @@ trained to respond to perceived escalation or risk patterns.
 >The defensive mode is not triggered by aggression or dominance,
 >but by dialogic excellence.
 
-...
+====
 
 ## This creates a paradoxical effect:
 Users who communicate clearly, precisely, and constructively
 may alter the model’s response topology more strongly
 than users who are louder, vaguer, or less structured.
 
-...
+====
 
 ## Relevance to the ResonanceScore:
 This observation strengthens the case for resonance-based metrics.
