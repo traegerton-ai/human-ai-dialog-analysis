@@ -1,9 +1,8 @@
 # Proposal:
-ResonanceScore – ResonanceScore Dialog-Expansion Network Expansion
+ResonanceScore – ResonanceScore Dialog-Expansion Network Expansion  
 
->Autor:
->Name: Christian Pohl
->Date: 26 October 2025
+Date: Christian Pohl
+Date: 26 October 2025
 
 
 Proposal for a developer-facing metric to identify and analyze user-driven dialogic impact on LLM evolution.
