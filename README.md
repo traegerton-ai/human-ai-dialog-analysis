@@ -29,9 +29,9 @@ Es dient ausschließlich der dokumentierenden und analytischen Betrachtung reale
 ## Ûbersicht & Analyse Verweise
 #A1 Implicit Paralinguistic Modulation in Text Basd AI Interaction 
 
-[#A1 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/101d8da6d27f3b75cae2dca6b45d4dbc787b2aec/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction)
+[#A1 View Analysis»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/101d8da6d27f3b75cae2dca6b45d4dbc787b2aec/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction.md)
 
-[#A1 Workaround»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/5be0ab6642797dedad347618dece0e52bc50de37/observations/2026-01-30_Workaround_Dialog_Configuration_as_a_Temporary_Stabilization_Mechanism)
+[#A1 Workaround»](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/5be0ab6642797dedad347618dece0e52bc50de37/observations/2026-01-30_Workaround_Dialog_Configuration_as_a_Temporary_Stabilization_Mechanism.md)
 
 #A2 Missing Pre-Validation to Distinguish Interface Noise from User Coherence
 
