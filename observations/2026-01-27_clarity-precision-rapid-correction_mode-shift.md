@@ -15,11 +15,9 @@ high-quality user interaction itself.
 are not primarily interpreted as collaborative,
 but rather as signals of low tolerance for error.
 
-...
 
-## This does not degrade output quality.
+**This does not degrade output quality.**
 
-...
 
 ## Instead, it induces a mode shift in the model’s response behavior:
 >* increased safeguarding and hedging
