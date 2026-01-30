@@ -1,7 +1,7 @@
 # Proposal:
 ResonanceScore – ResonanceScore Dialog-Expansion Network Expansion  
 
-<br>ChristChristianstian Proposalhl<br/>
+<br>Name: Christian Pohl<br/>
 Date: 26 October 2025
 
 
