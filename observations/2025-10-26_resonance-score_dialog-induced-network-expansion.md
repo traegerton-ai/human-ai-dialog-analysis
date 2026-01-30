@@ -1,8 +1,10 @@
-Proposal: ResonanceScore – Tracking Dialog-Induced Network Expansion
+## Proposal: ResonanceScore – Tracking Dialog-Induced Network Expansion
 
 Author: Christian Pohl
 Date: 26 October 2025
-Context: Proposal for a developer-facing metric to identify and analyze user-driven dialogic impact on LLM evolution.
+
+Context:Proposalroposal
+Proposal for a developer-facing metric to identify and analyze user-driven dialogic impact on LLM evolution.
 
 ---
 
