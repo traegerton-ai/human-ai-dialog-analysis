@@ -56,7 +56,7 @@ This score is not based on volume, but on dialogic influence.
 
 ---
 
->## Implementation Sketch
+**## Implementation Sketch**
 >* Log Layer Extension
   Extend interaction logs to tag and track resonance-relevant events
   (e.g., module creation, structural deviation, recursive reflection).
