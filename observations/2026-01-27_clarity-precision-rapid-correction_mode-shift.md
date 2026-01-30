@@ -1,6 +1,6 @@
 ## Clarity, Precision, and Rapid Correction
-> are systemically interpreted as “low error tolerance”
-> and shift the model into a defensive mode**
+>are systemically interpreted as “low error tolerance”
+>and shift the model into a defensive mode**
 
 A largely unexamined dynamic in dialog-driven systems emerges from
 high-quality user interaction itself.
@@ -53,5 +53,5 @@ but also precision-induced mode shifts, such as:
 >* reduction of stylistic freedom despite stable semantic quality
 >* increased self-referential and hedging markers
 
-## These effects are measurable, repeatable, and dialog-induced,
-## yet currently untracked by standard evaluation metrics.
+> These effects are measurable, repeatable, and dialog-induced,
+> yet currently untracked by standard evaluation metrics.
