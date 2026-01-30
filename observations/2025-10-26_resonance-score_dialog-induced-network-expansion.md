@@ -77,7 +77,7 @@ This score is not based on volume, but on dialogic influence.
 ---
 
 
-## Why This Matters
+**Why This Matters**
 >* Model Evolution Insight
   Understand how and why certain users trigger meaningful shifts in model behavior.
 
@@ -99,7 +99,7 @@ This score is not based on volume, but on dialogic influence.
 
 
 ## Closing Quote
-> “Es ist hochinteressant zu sehen, unter welcher Wirkung sich das Netz erweitert.”
-> – Christian, Resonanzarchitekt
+**Es ist hochinteressant zu sehen, unter welcher Wirkung sich das Netz erweitert.**
+**Christian, Resonanzarchitekt**
 
 —
