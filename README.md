@@ -27,11 +27,7 @@ Dieses Repository ist **keine** theoretische Abhandlung, **kein** Marketingmater
 Es dient ausschließlich der dokumentierenden und analytischen Betrachtung realer Interaktionen auf Systemebene.
 
 
-## Beobachtungen
+## Beobachtunge
+### Implizite paralinguistische Modulation in textbasierter KI-Interaktion
 
-- [Implizite paralinguistische Modulation in textbasierter KI-Interaktion](
-https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/main/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Based_AI_Interaction.md)
-
-- [Dialogkonfiguration als temporärer Stabilisierungsmechanismus](
-https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/main/observations/2026-01-30_Workaround_Dialog_Configuration_as_a_Temporary_Stabilization_Mechanism.md)
-
+[Zur Analyse »](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/b10d9917e5bc535c336d75198dcfd73e083cedc6/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction)
