@@ -1,4 +1,3 @@
-
 # Systemanalyse der Mensch-KI-Interaktion und Dialogdynamik
 
 ## Überblick
@@ -28,6 +27,6 @@ Es dient ausschließlich der dokumentierenden und analytischen Betrachtung reale
 
 
 ## Beobachtunge
-# Implizite paralinguistische Modulation   in textbasierter KI-Interaktion
+Dialog Configuration as a Temporary Stabilization Mechanism
 
-[Zur Analyse »](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/b10d9917e5bc535c336d75198dcfd73e083cedc6/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction)
+[View analysis »](https://github.com/traegerton-ai/human-ai-dialog-analysis/blob/b10d9917e5bc535c336d75198dcfd73e083cedc6/observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction)
