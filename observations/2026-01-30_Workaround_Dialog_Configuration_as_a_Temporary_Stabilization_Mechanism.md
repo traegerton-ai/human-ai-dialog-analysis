@@ -12,12 +12,11 @@ claim to solve the underlying issue, but serves as a practical stabilization mec
 
 ## Preliminary Notice:
 > - Input texts may be locally corrupted due to interface-level transcription artifacts.
-- Evaluation must be based on coherence over time, not on isolated formulations.
-- Momentary, short-circuit evaluations systematically lead to misattribution.
-- No situational tone or mode changes are to occur without explicit user request.
+>- Evaluation must be based on coherence over time, not on isolated formulations.
+>- Momentary, short-circuit evaluations systematically lead to misattribution.
+>- No situational tone or mode changes are to occur without explicit user request.
 
 ## Relation to P1 and P2
-
 This configuration does not introduce new evaluation parameters. Instead, it explicitly 
 enforces the correct application of the emergent P1/P2 attribution axes:
 
