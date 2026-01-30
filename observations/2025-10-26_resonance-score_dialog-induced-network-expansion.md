@@ -1,5 +1,5 @@
-# Proposal:ResonanceScore
-ResonanceScore – ResonanceScore Dialog-Induced Network Expansion
+# Proposal:
+**ResonanceScore – ResonanceScore Dialog-**Expansion Network Expansion
 
 >ResonanceScore:
 >Name: Christian Pohl
