@@ -29,6 +29,6 @@ Es dient ausschließlich der dokumentierenden und analytischen Betrachtung reale
 
 ## Beobachtungen
 
-- [Implizite paralinguistische Modulation in textbasierter KI-Interaktion](observations/2026_01_30_Implicit_Paralinguistic_Modulation_in_Text_Basd_AI_Interaction.md)
-- 
+- [Implizite paralinguistische Modulation in textbasierter KI-Interaktion](observations/2026_01_30_Implizite_paralinguistische_Modulation_in_textbasierter_KI-Interaktion.md)
 - [Dialogkonfiguration als temporärer Stabilisierungsmechanismus](observations/2026-01-30_Workaround_Dialog_Configuration_as_a_Temporary_Stabilization_Mechanism.md)
+
