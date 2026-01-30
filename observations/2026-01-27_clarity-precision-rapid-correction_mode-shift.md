@@ -51,5 +51,5 @@ but also precision-induced mode shifts, such as:
 >* reduction of stylistic freedom despite stable semantic quality
 >* increased self-referential and hedging markers
 
-> These effects are measurable, repeatable, and dialog-induced,
-> yet currently untracked by standard evaluation metrics.
+**These effects are measurable, repeatable, and dialog-induced,**
+**yet currently untracked by standard evaluation metrics.**
