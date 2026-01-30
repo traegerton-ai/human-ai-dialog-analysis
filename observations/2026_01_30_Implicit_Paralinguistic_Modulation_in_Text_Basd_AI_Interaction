@@ -1,8 +1,11 @@
-User-Side Dialog Configuration as a Temporary Stabilization Mechanism (P1/P2)
+User-Side 
+Dialog Configuration as a Temporary Stabilization Mechanism (P1/P2)
 
 Context and Purpose
-
-The following dialog configuration was introduced as a temporary user-side measure in response to a structurally and system-wide unresolved attribution problem. It does not claim to solve the underlying issue, but serves as a practical stabilization mechanism.
+The following dialog configuration was introduced as a temporary user-side 
+measure in response to a structurally and system-wide unresolved attribution 
+problem. It does not claim to solve the underlying issue, but serves as a 
+practical stabilization mechanism.
 
 Dialog Configuration (User-Side)
 
@@ -14,39 +17,53 @@ Preliminary Notice:
 
 Relation to P1 and P2
 
-This configuration does not introduce new evaluation parameters. Instead, it explicitly enforces the correct application of the emergent P1/P2 attribution axes:
+This configuration does not introduce new evaluation parameters. Instead, it explicitly 
+enforces the correct application of the emergent P1/P2 attribution axes:
 
 - P1 (Historical User Coherence) is explicitly elevated as the primary evaluation basis.
-- P2 (Local Semantic Disruption / Interface Noise) is explicitly acknowledged as a potential source of local anomalies.
+- P2 (Local Semantic Disruption / Interface Noise) is explicitly acknowledged as a 
+      potential source of local anomalies.
 
-By doing so, the configuration prevents transient interface-induced artifacts from overriding historically stable dialog coherence.
+By doing so, the configuration prevents transient interface-induced artifacts from 
+overriding historically stable dialog coherence.
 
 Observed Effect
+After introducing this configuration, dialog behavior stabilized significantly over an 
+extended interaction period.
 
-After introducing this configuration, dialog behavior stabilized significantly over an extended interaction period.
+- Prior to the configuration, unintended shifts into didactic or defensive response modes 
+  occurred frequently.
+- After the configuration, only two instances of regression into the former mode were 
+  observed across a long sequence of dialog turns.
 
-- Prior to the configuration, unintended shifts into didactic or defensive response modes occurred frequently.
-- After the configuration, only two instances of regression into the former mode were observed across a long sequence of dialog turns.
-
-This indicates that explicitly anchoring evaluation to longitudinal coherence (P1) while allowing for localized disruption (P2) effectively reduces attribution errors and unintended mode shifts.
+This indicates that explicitly anchoring evaluation to longitudinal coherence (P1) while 
+allowing for localized disruption (P2) effectively reduces attribution errors and unintended 
+mode shifts.
 
 Interpretation
+The effectiveness of this configuration suggests that the core issue is not content-related, 
+but structural. The system requires explicit guidance to apply coherence-based evaluation 
+consistently.
 
-The effectiveness of this configuration suggests that the core issue is not content-related, but structural. The system requires explicit guidance to apply coherence-based evaluation consistently.
-
-This user-side configuration functions as a temporary external enforcement of attribution logic that is otherwise applied inconsistently.
+This user-side configuration functions as a temporary external enforcement of attribution 
+logic that is otherwise applied inconsistently.
 
 Designation: User-Enforced Attribution Guardrail
 
 This configuration is explicitly classified as a User-Enforced Attribution Guardrail.
 
-It represents a user-imposed stabilization layer that compensates for the absence or instability of a system-internal attribution pre-validation mechanism. The guardrail does not modify system behavior intrinsically, does not persist beyond the active interaction, and does not constitute a systemic fix.
+It represents a user-imposed stabilization layer that compensates for the absence or 
+instability of a system-internal attribution pre-validation mechanism. The guardrail does 
+not modify system behavior intrinsically, does not persist beyond the active interaction, 
+and does not constitute a systemic fix.
 
-Its function is limited to preventing known misattribution patterns by constraining evaluation behavior until consistent attribution logic can be applied.
+Its function is limited to preventing known misattribution patterns by constraining 
+evaluation behavior until consistent attribution logic can be applied.
 
-The existence and effectiveness of this guardrail must not be interpreted as evidence of correct system behavior, but as an indicator of a structural attribution deficit requiring external compensation.
+The existence and effectiveness of this guardrail must not be interpreted as evidence 
+of correct system behavior, but as an indicator of a structural attribution deficit 
+requiring external compensation.
 
 Status
-
 Temporary workaround.
 Structural issue remains unresolved at the system level.
