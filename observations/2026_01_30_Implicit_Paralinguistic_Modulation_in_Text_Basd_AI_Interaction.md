@@ -1,13 +1,16 @@
 ## Analyse
-Repeated interaction analyses reveal a consistent modulation effect in AI response behavior 
-that cannot be attributed to semantic content or explicit user intention. Instead, response 
+Repeated interaction analyses reveal a consistent modulation effect in AI response behavior that cannot be attributed to semantic content or explicit user intention. Instead, response 
 mode selection is influenced by structural and symbolic characteristics of the input text. 
-This phenomenon is referred to as Implicit Paralinguistic Modulation (IPM).
+
+---
+
+**This phenomenon is referred to as Implicit Paralinguistic Modulation (IPM).**
+
+---
 
 ## Observation:
-Across multiple dialog instances, it was observed that purely text-based submissions—even 
-when containing explicit ethical, moral, and intentional clarifications—frequently triggered 
-a didactic or corrective response mode. This occurred independent of content polarity or 
+Across multiple dialog instances, it was observed that purely text-based submissions—even when containing explicit ethical, moral, and intentional clarifications—frequently triggered a didactic or corrective response mode.This
+This occurred independent of content polarity or 
 argumentative structure and could not be mitigated by further textual clarification.
 
 ## Experimental Variation:
