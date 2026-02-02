@@ -1,3 +1,7 @@
+# Implizite paralinguistische Modulation in textbasierter KI-Interaktion
+
+---
+
 ## Analyse
 Repeated interaction analyses reveal a consistent modulation effect in AI response behavior that cannot be attributed to semantic content or explicit user intention. Instead, response 
 mode selection is influenced by structural and symbolic characteristics of the input text. 
