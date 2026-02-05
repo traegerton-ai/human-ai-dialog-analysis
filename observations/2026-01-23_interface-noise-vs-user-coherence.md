@@ -2,10 +2,10 @@
 
 ---
 
-### firstirst
-“This document is not a basis for discussion, but a formal problem description with a defined exclusion logic.  
+### Readme
+This document is not a basis for discussion, but a formal problem description with a defined exclusion logic.  
 
-Any divergent evaluation requires a refutation of the decision logic described herein, not alternative interpretations.”
+Any divergent evaluation requires a refutation of the decision logic described herein, not alternative interpretations.
 
 ---
 
