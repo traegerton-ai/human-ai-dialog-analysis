@@ -1,7 +1,7 @@
-# Systemanalyse der Mensch-KI-Interaktion und Dialogdynamik
+# Analyzes emergent interaction effects in real human–AI dialogues.
 
 
-# Introduction
+## Introduction
 This repository analyzes emergent interaction effects in real human–AI dialogues.
 The focus lies on dynamic context shifts, unintended mode changes, misalignment of proximity and distance, and systemic breaks in response behavior that arise only through sustained interaction.
 
